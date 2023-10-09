@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  dat-life: ^0.1.0
+
+dependencies:
+  dat-life: 0.1.0
+
+packages:
+
+  /dat-life/0.1.0:
+    resolution: {integrity: sha512-9vy0JWoweyc9tZAMkg25q91yVLxqqrj0QFySXXhNQJQYvM4A8jpTMsu2wvbwinIQpmodWSsiup1IW9ZX8hBdeA==}
+    dev: false
